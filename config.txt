@@ -1,6 +1,6 @@
 {
 	"ip":"01TANMAYgamerz.aternos.me",
 	"port": "11394",
-	"name": "afkbot1",
+	"name": "afktanmay",
 	"auto-night-skip":"true"
 }
